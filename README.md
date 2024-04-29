@@ -1,4 +1,4 @@
-Tendrás que configurar redes a pequeña escala. Para ello, será necesario entender cómo funciona el direccionamiento TCP/IP.
+_**Tendrás que configurar redes a pequeña escala. Para ello, será necesario entender cómo funciona el direccionamiento TCP/IP.**_
 
 <h1>Parte obligatoria</h1>
 
